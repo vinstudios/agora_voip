@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1077863430684",
+    "firebase_url": "https://jexmov.firebaseio.com",
+    "project_id": "jexmov",
+    "storage_bucket": "jexmov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077863430684:android:00808926fbe597bc9d3dd9",
+        "android_client_info": {
+          "package_name": "com.jexmovers.jexmov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077863430684-nqpn141u774bthld76nsmh2nln3lg66i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm89GSDtgZr3qMmOAJAXi-ZfvLM_CnAVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077863430684-nqpn141u774bthld76nsmh2nln3lg66i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077863430684:android:dc5db340636446bc9d3dd9",
+        "android_client_info": {
+          "package_name": "com.jexmovers.jexrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077863430684-nqpn141u774bthld76nsmh2nln3lg66i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm89GSDtgZr3qMmOAJAXi-ZfvLM_CnAVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077863430684-nqpn141u774bthld76nsmh2nln3lg66i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
